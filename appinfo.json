@@ -1,0 +1,29 @@
+{
+  "uuid": "36fff65a-4f2a-461a-9be7-1819159f885a",
+  "shortName": "Hora Est",
+  "longName": "Hora Est",
+  "companyName": "Berteun",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "FONT_ROBOTO_CONDENSED_20",
+        "file": "fonts/Roboto-Condensed.ttf"
+      },
+      {
+        "characterRegex": "[-:IVXLCDM]",
+        "type": "font",
+        "name": "FONT_ROBOTO_BOLD_SUBSET_25",
+        "file": "fonts/Roboto-Bold.ttf"
+      }
+    ]
+  }
+}
