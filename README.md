@@ -16,3 +16,8 @@ implemented next, but will need some sort of Javascript work on the phone, to
 extract the location.
 
 This is also why I'm already using the 2.0 SDK.
+
+Hodie
+-----
+
+This program includes some code from [Hodie](https://github.com/michiexile/hodie)
